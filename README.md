@@ -2,7 +2,8 @@
 
 ### Repository for reading High-Performance-Python 2nd Edition published by O'reily (in Korean)
 고성능 파이썬 파이썬 성능 잠재력을 끌어내는 실용적인 개발 전략서 [ 2판 ] 스터디 자료입니다. <br/>
-[🙋‍♂️모두의 연구소 풀잎스쿨 16기 고성능 파이썬](https://modulabs.co.kr/product/high-performance-python/) <br/>
+[🙋‍♀️고성능 파이썬 공부 정리 블로그 글](https://abc-project-tech.tistory.com/category/%EA%B3%A0%EC%84%B1%EB%8A%A5%20%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+[🙋‍♂️모두의 연구소 풀잎스쿨 16기 고성능 파이썬 소개 페이지](https://modulabs.co.kr/product/high-performance-python/) <br/>
 
 
 ![XL 1](https://user-images.githubusercontent.com/67178982/133422502-71bdeb11-9a7a-404a-a6ea-349287cb2f76.png)
